@@ -15,5 +15,5 @@ A simple multi-purpose logging library written in C++
 
 ## Guides
 You can watch these tutorials on difficulties you encounter:-<br>
-[Basic C++ Tutorial](https://youtu.be/ZzaPdXTrSb8?si=9mSDgnZkk27p14nu)
+[Basic C++ Tutorial](https://youtu.be/ZzaPdXTrSb8?si=9mSDgnZkk27p14nu)<br>
 [Object Oriented Programming in C++](https://youtu.be/_8H2n0nDfd4?si=PrmR5flzMUQIvaHL)<br>          

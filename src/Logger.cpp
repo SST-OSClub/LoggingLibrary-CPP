@@ -6,6 +6,19 @@
 // void Logger::<your-function>() { ... }
 // Here "Logger" is your class name declared in "includes/Logger.h"
 
+void Logger::info(std::string msg){
+	std::cout << "[INFO] "<<msg<<std::endl;
+}
+
+void Logger::warn(std::string msg){
+	std::cout << "[WARNING] "<<msg<<std::endl;
+}
+
+void Logger::error(std::string msg){
+	std::cout<<"[ERROR] "<<msg<<std::endl;
+}
+
+
 // Logger Constructor Definition
 Logger::Logger() {
 	std::cout << "Logger Constructor called!\n";
